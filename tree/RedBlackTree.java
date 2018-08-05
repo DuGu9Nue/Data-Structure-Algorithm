@@ -1,4 +1,4 @@
-package com.Data_Structure_Algorithm.tree;
+package com.DataStructure_Algorithm.tree;
 
 public class RedBlackTree<Key extends Comparable<Key>, Value> {
 	private static final boolean RED = true;

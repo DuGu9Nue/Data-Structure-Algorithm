@@ -1,5 +1,5 @@
-package com.Data_Structure_Algorithm.tree;
-import com.Data_Structure_Algorithm.tree.RedBlackTree;
+package com.DataStructure_Algorithm.tree;
+import com.DataStructure_Algorithm.tree.RedBlackTree;
 
 public class RedBlackTreeTest {
 

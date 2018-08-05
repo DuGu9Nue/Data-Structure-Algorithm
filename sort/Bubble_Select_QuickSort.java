@@ -1,4 +1,4 @@
-package com.Data_Structure_Algorithm.sort;
+package com.DataStructure_Algorithm.sort;
 
 public class Bubble_Select_QuickSort {
 
